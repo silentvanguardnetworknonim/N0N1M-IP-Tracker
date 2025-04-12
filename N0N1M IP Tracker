@@ -1,0 +1,21 @@
+ N0N1M IP Tracker
+
+Tools sederhana untuk melacak IP publik, IP domain, dan IP manual
+
+🔍 Fitur
+- Lacak IP domain (web)
+- Lacak IP publik (IP kamu sendiri)
+- Lacak IP manual
+- Output berwarna + info lokasi lengkap
+
+Cara Install 
+
+bash
+pkg update && pkg upgrade
+pkg install python git
+pip install colorama requests
+git clone https://github.com/silentvar/N0N1M-IP-Tracker.git
+cd N0N1M-IP-Tracker
+python N0N1M-IP-Tracker.py
+
+👨🏻‍💻termux tools🔥
