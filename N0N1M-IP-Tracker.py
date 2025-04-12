@@ -1,5 +1,3 @@
-
-# Paste script dari atas
 import requests
 import os
 from colorama import init, Fore, Style
